@@ -1,2 +1,2 @@
 # dot
-dot repo
+dot repo for git command demonstration
